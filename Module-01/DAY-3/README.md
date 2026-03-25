@@ -21,8 +21,8 @@ b.	If false, print 'num' followed by " is Non-Zero"
  ```
 /*
 Program to implement a class & objects using Java
-Developed by: SRINIVASAN V
-RegisterNumber: 212222043008
+Developed by: RISHI KEERTHI K 
+RegisterNumber: 212222043007
 */
 ```
 
